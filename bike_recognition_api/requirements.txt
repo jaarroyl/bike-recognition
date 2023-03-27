@@ -1,0 +1,10 @@
+fastapi==0.63.0
+uvicorn==0.13.2
+tensorflow==2.4.1
+pandas==0.24.2
+numpy==1.19.5
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+python-multipart==0.0.5
+scikit-image==0.15.0
+matplotlib==3.1.0
